@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 # About Me 🔥 
 
-## Hi there 👋. I am a passionate **Data Scientist** and **Machine Learning Engineer**, dedicated to crafting efficient ML pipelines within tight deadlines while maintaining high-quality, readable, and maintainable code.
+## Hi there 👋.
+I am a passionate **Data Scientist** and **Machine Learning Engineer**, dedicated to crafting efficient ML pipelines within tight deadlines while maintaining high-quality, readable, and maintainable code.
 
 ## My Tech Stack 🛠️  
 <div align="center">
