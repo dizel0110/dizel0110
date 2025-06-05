@@ -20,11 +20,15 @@ I am a passionate **Data Scientist** and **Machine Learning Engineer**, dedicate
 
 ## My Tech Stack 🛠️  
 <div align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="100"/>
-  <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Django Logo" width="100"/>
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI Logo" width="100"/> 
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="100"/>  
+  <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Django Logo" width="100"/>    
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI Logo" width="100"/>
+  <br>
   <img src="https://raw.githubusercontent.com/pytorch/pytorch/main/docs/source/_static/img/pytorch-logo-dark.png" alt="PyTorch Logo" width="100"/>
+  <br>
   <img src="https://cdn.brandfetch.io/idS8GMP5c8/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1742926327487" alt="MLFlow Logo" width="100"/>
+  <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg" alt="neo4j Logo" width="100"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git Logo" width="100"/>  
 </div>
 
 ## Expertise ⚙️  
