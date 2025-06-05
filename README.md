@@ -20,7 +20,7 @@ I am a passionate **Data Scientist** and **Machine Learning Engineer**, dedicate
 
 ## My Tech Stack 🛠️  
 <div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1793/1793405.png" alt="Python Logo" width="40"/>
+  <img src="https://github.com/python/pythondotorg/blob/main/static/community_logos/python-logo-inkscape.svg" alt="Python Logo" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Django_logo.svg/120px-Django_logo.svg.png" alt="Django Logo" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Pytorch_logo_icon.svg/120px-Pytorch_logo_icon.svg.png" alt="PyTorch Logo" width="40"/>
 </div>
