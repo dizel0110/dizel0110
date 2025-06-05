@@ -39,5 +39,5 @@ Feel free to reach out if you're looking for collaboration or need help with any
   <a href="https://www.linkedin.com/in/dizel0110/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Icon" width="30"/></a>    
   <a href="https://hh.ru/resume/f956944fff0ee7c3eb0039ed1f763773435052" target="_blank"><img src="https://avatars.githubusercontent.com/u/152753?s=48&v=4" alt="HeadHunter Icon" width="30"/></a>    
   <a href="https://career.habr.com/dizel0110" target="_blank"><img src="https://habrastorage.org/getpro/moikrug/uploads/company/901/244/761/logo/medium_c35efb293cd85320d66e74304d3a8076.jpg" alt="Habr Career Icon" width="30"/></a>    
-  <a href="https://t.me/@dizel0110" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" width="30"/></a>    
+  <a href="https://t.me/dizel0110" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" width="30"/></a>    
 </div>
