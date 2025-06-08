@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# About Me 🔥 
-
 ## Hi there 👋.
 I am a passionate **Data Scientist** and **Machine Learning Engineer**, dedicated to crafting efficient ML pipelines within tight deadlines while maintaining high-quality, readable, and maintainable code.
 
@@ -27,6 +24,7 @@ I am a passionate **Data Scientist** and **Machine Learning Engineer**, dedicate
   <img src="https://cdn.brandfetch.io/idS8GMP5c8/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1742926327487" alt="MLFlow Logo" width="100" style="display: inline-block;"/>
   <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg" alt="neo4j Logo" width="100" style="display: inline-block;"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git Logo" width="100" style="display: inline-block;"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="RabbitMQ Logo" width="100" style="display: inline-block;"/>
 </div>
 
 ## Expertise ⚙️  
