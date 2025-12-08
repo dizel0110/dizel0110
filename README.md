@@ -56,8 +56,8 @@ I am a passionate **Data Scientist**, **Machine Learning Engineer**, and **AI Ag
       <br>Hugging Face
     </td>
     <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" alt="Llama (Meta AI)" width="60" height="60" style="object-fit: contain;"/>
-      <br>Llama (Meta AI)
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToFuhCcn_21q2Lz2PjSF8FrSe2hveaDy0UMw&s" alt="Ollama" width="60" height="60" style="object-fit: contain;"/>
+      <br>Ollama
     </td>
     <td align="center" width="100">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="Google Antigravity" width="60" height="60" style="object-fit: contain;"/>
@@ -96,7 +96,7 @@ I am a passionate **Data Scientist**, **Machine Learning Engineer**, and **AI Ag
 - **Multi-Agent Systems**: Orchestrating collaborative agent workflows and self-reflection loops.
 - **RAG & Vector Search**: Implementing Retrieval-Augmented Generation with vector databases (**ChromaDB**, **Weaviate**).
 - **LLM Integration**: Fine-tuning and prompting large language models (**OpenAI**, **Hugging Face**).
-- **Local LLMs**: Running and optimizing local models (**Llama**, **Mistral**) for privacy-first AI solutions.
+- **Local LLM Deployment**: Running and managing local models (**Llama 3**, **Mistral**) using **Ollama** for privacy-first AI solutions.
 - **Cloud & Infrastructure**: Deploying scalable ML solutions on **Google Cloud Platform (GCP)**.
 - **Machine Learning Engineering**: Building scalable ML pipelines for NLP and CV tasks.
 - **Data Engineering**: Optimizing data processing pipelines and ensuring clean, efficient implementations.
