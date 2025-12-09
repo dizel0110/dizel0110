@@ -1,47 +1,40 @@
 <!-- 
-  Modern, theme-aware README for GitHub profile.
-  Uses dynamic stats, smooth layout, and clean typography.
-  All content in English.
+  Final version: stable, animated, clean.
+  Fixed stats (commented), better avatar, proper name format.
 -->
 <div align="center">
   
-  <!-- Animated AI Developer Icon -->
-  <img src="https://cdn.dribbble.com/users/1015711/screenshots/4181493/media/5b6f76cd6c54dfb2f098f44680e4c978.gif" width="120" alt="AI Developer" style="border-radius: 50%; margin-bottom: 16px;" />
+  <!-- Animated AI Developer Icon - Verified GIF -->
+  <img src="https://media.tenor.com/lYD3vM0-VvIAAAAC/artificial-intelligence-ai.gif" width="120" alt="Animated AI" style="border-radius: 50%; margin-bottom: 16px;" />
   
-  <h1>Hi there 👋 I'm Dizel0110</h1>
-  <p>A passionate <strong>Data Scientist</strong>, <strong>ML Engineer</strong>, and <strong>AI Agent Developer</strong><br/>
+  <h1>Hi there 👋 I'm Dmitrii</h1>
+  <p><code>dizel0110</code> • <strong>Data Scientist</strong>, <strong>ML Engineer</strong>, <strong>AI Agent Dev</strong><br/>
   Building autonomous systems, RAG pipelines, and scalable ML solutions.</p>
   
-  <!-- GitHub Stats Cards -->
+  <!-- 
+    GitHub Stats - commented due to rendering issues on some clients
+    Will be visible when GitHub allows external iframes (not always)
+  -->
+  <!--
   <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 20px 0;">
     <a href="https://github.com/dizel0110">
-      <img src="https://github-readme-stats.vercel.app/api?username=dizel0110&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF" width="480" alt="dizel0110 stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=dizel0110&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF" width="480" alt="Stats" />
     </a>
     <a href="https://github.com/dizel0110">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dizel0110&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF" width="280" alt="Top languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dizel0110&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF" width="280" alt="Top langs" />
     </a>
   </div>
 
-  <!-- Theme-Aware Divider -->
   <picture>
     <source srcset="https://user-images.githubusercontent.com/70478298/194958885-5c2b8d49-2b15-4eb6-93f4-26b6e202385b.svg" media="(prefers-color-scheme: dark)">
     <source srcset="https://user-images.githubusercontent.com/70478298/194958881-58c6c58d-1eaa-46f2-9c79-1e4794a05697.svg" media="(prefers-color-scheme: light)">
     <img src="https://user-images.githubusercontent.com/70478298/194958881-58c6c58d-1eaa-46f2-9c79-1e4794a05697.svg" alt="Divider" width="600" style="margin: 24px 0;">
   </picture>
+  -->
+
+  <!-- Alternative simple divider -->
+  <hr style="width: 60%; border: 0.5px solid #ccc; margin: 24px auto;" />
 </div>
-
-<!-- 
-  Uncomment when ready
--->
-<!--
-## 🌱 Currently Learning
-- Advanced **LangGraph** workflows and agent memory patterns.
-- Fine-tuning **Llama 3** with LoRA for domain-specific tasks.
-
-## 🔭 Currently Working On
-- Building a **self-correcting agent team** using **AutoGen + LangChain**.
-- Deploying **RAG pipelines** with **ChromaDB + Ollama** on GCP.
--->
 
 ## My Tech Stack 🛠️
 
@@ -111,7 +104,7 @@
 ## Projects 🚀
 
 <!-- 
-💡 Uncomment and share real projects when ready!
+💡 Uncomment when ready
 -->
 <!-- 
 - **Autonomous Agent Team for Data Analysis**  
