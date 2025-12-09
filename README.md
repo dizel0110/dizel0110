@@ -10,6 +10,13 @@
   <h1>Hi there 👋 I'm Dmitrii</h1>
   <p><code>dizel0110</code> • <strong>Data Scientist</strong>, <strong>ML Engineer</strong>, <strong>AI Agent Dev</strong><br/>
   Building autonomous systems, RAG pipelines, and scalable ML solutions.</p>
+  ## 🌐 Check out my personal site:  
+<div align="center">
+  <a href="https://dizel0110.github.io">
+    <img src="[https://gist.githubusercontent.com/dizel0110/abcd1234/raw/.../banner.svg](https://gist.githubusercontent.com/dizel0110/46d3ae8cabf2724687a6ce6a6a16ad29/raw/3be35bc55ac567836f3ef6ae6bb8a28322cc1d22/banner.svg)" alt="Dmitrii's Portfolio" width="700" />
+  </a>
+</div>
+
   
   <!-- 
     GitHub Stats - commented due to rendering issues on some clients
