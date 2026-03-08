@@ -1,142 +1,182 @@
-<!-- 
-  Final version: stable, animated, clean.
-  Fixed stats (commented), better avatar, proper name format.
--->
-<div align="center">
-  
-  <!-- Animated AI Developer Icon - Verified GIF -->
-  <img src="https://media.tenor.com/lYD3vM0-VvIAAAAC/artificial-intelligence-ai.gif" width="120" alt="Animated AI" style="border-radius: 50%; margin-bottom: 16px;" />
-  
-  <h1>Hi there 👋 I'm Dmitrii</h1>
-  <p><code>dizel0110</code> • <strong>Data Scientist</strong>, <strong>ML Engineer</strong>, <strong>AI Agent Dev</strong><br/>
-  Building autonomous systems, RAG pipelines, and scalable ML solutions.</p>
-  🌐 Check out my personal site:  
-<div align="center">
+<p align="center">
   <a href="https://dizel0110.github.io">
-    <img src="https://gist.githubusercontent.com/dizel0110/46d3ae8cabf2724687a6ce6a6a16ad29/raw/3be35bc55ac567836f3ef6ae6bb8a28322cc1d22/banner.svg" alt="Dmitrii's Portfolio" width="700" />
+    <img src="https://gist.githubusercontent.com/dizel0110/46d3ae8cabf2724687a6ce6a6a16ad29/raw/3be35bc55ac567836f3ef6ae6bb8a28322cc1d22/banner.svg" alt="Banner" width="100%"/>
   </a>
-</div>
+</p>
 
-  
-  <!-- 
-    GitHub Stats - commented due to rendering issues on some clients
-    Will be visible when GitHub allows external iframes (not always)
-  -->
-  <!--
-  <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 20px 0;">
-    <a href="https://github.com/dizel0110">
-      <img src="https://github-readme-stats.vercel.app/api?username=dizel0110&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF" width="480" alt="Stats" />
-    </a>
-    <a href="https://github.com/dizel0110">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dizel0110&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF" width="280" alt="Top langs" />
-    </a>
-  </div>
+<h1 align="center">Hi there, I'm Dmitrii 👋</h1>
 
-  <picture>
-    <source srcset="https://user-images.githubusercontent.com/70478298/194958885-5c2b8d49-2b15-4eb6-93f4-26b6e202385b.svg" media="(prefers-color-scheme: dark)">
-    <source srcset="https://user-images.githubusercontent.com/70478298/194958881-58c6c58d-1eaa-46f2-9c79-1e4794a05697.svg" media="(prefers-color-scheme: light)">
-    <img src="https://user-images.githubusercontent.com/70478298/194958881-58c6c58d-1eaa-46f2-9c79-1e4794a05697.svg" alt="Divider" width="600" style="margin: 24px 0;">
-  </picture>
-  -->
+<p align="center">
+  <a href="https://dizel0110.github.io"><strong>🌐 Portfolio Website</strong></a> •
+  <a href="https://www.linkedin.com/in/dizel0110/"><strong>LinkedIn</strong></a> •
+  <a href="https://t.me/dizel0110"><strong>Telegram</strong></a>
+</p>
 
-  <!-- Alternative simple divider -->
-  <hr style="width: 60%; border: 0.5px solid #ccc; margin: 24px auto;" />
-</div>
+<p align="center">
+  <em>LLM & ML Engineer building the next generation of Agentic AI.<br/>
+  Driven by the 270+ windy days of El Gouna. 🪁</em>
+</p>
 
-## My Tech Stack 🛠️
+---
 
-<div align="center">
-  <table>
-    <!-- Row 1: Core ML & Python -->
-    <tr>
-      <td align="center"><img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="50"/><br><b>Python</b></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/pytorch/pytorch/main/docs/source/_static/img/pytorch-logo-dark.png" alt="PyTorch" width="50"/><br><b>PyTorch</b></td>
-      <td align="center"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="50"/><br><b>FastAPI</b></td>
-      <td align="center"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Django" width="50"/><br><b>Django</b></td>
-      <td align="center"><img src="https://cdn.brandfetch.io/idS8GMP5c8/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1742926327487" alt="MLflow" width="50"/><br><b>MLflow</b></td>
-    </tr>
-    <tr><td colspan="5"><br></td></tr>
-    <!-- Row 2: LLMs & Agents -->
-    <tr>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" width="50"/><br><b>OpenAI</b></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/LangChain_Logo.svg" alt="LangChain" width="50"/><br><b>LangChain</b></td>
-      <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="50"/><br><b>Hugging Face</b></td>
-      <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToFuhCcn_21q2Lz2PjSF8FrSe2hveaDy0UMw&s" alt="Ollama" width="50"/><br><b>Ollama</b></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="Google Antigravity" width="50"/><br><b>Antigravity</b></td>
-    </tr>
-    <tr><td colspan="5"><br></td></tr>
-    <!-- Row 3: Data & Infra -->
-    <tr>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="GCP" width="50"/><br><b>GCP</b></td>
-      <td align="center"><img src="https://static.cdnlogo.com/logos/c/27/chroma.svg" alt="ChromaDB" width="50"/><br><b>ChromaDB</b></td>
-      <td align="center"><img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg" alt="Neo4j" width="50"/><br><b>Neo4j</b></td>
-      <td align="center"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="RabbitMQ" width="50"/><br><b>RabbitMQ</b></td>
-      <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" width="50"/><br><b>Git</b></td>
-    </tr>
-  </table>
-</div>
+## 🚀 What I Do
 
-## Expertise & Skills ⚙️
+> **"Architecting LLMs. Mastering the Wind."**
 
-### 🔥 Core Stack (Production-Level Mastery)
-- **Python** ⭐⭐⭐⭐⭐  
-  *Daily driver. Clean, testable, scalable code — my standard.*
-- **PyTorch** ⭐⭐⭐⭐⭐  
-  *From research to production: CV, NLP, custom architectures.*
-- **FastAPI** ⭐⭐⭐⭐⭐  
-  *My go-to for high-performance ML APIs and microservices.*
-- **LangChain & LangGraph** ⭐⭐⭐⭐⭐  
-  *Building stateful, agentic workflows with memory and tools.*
-- **OpenAI & RAG** ⭐⭐⭐⭐⭐  
-  *Fine-tuned prompts, retrieval pipelines, evaluation frameworks.*
+I build **autonomous AI agents** that think, **RAG systems** that know, and **ML pipelines** that scale.
 
-> 💡 **⭐ Solid yellow stars** = Deep expertise, used daily in production.
+- 🔮 **Multimodal AI Agents** — Text, Vision, Voice unified in one system
+- 🧠 **LLM Fine-tuning** — LoRA, QLoRA, custom adaptation
+- 🔄 **Fallback Systems** — 99.9% uptime with multi-provider orchestration
+- 📊 **MLOps** — Production pipelines with MLflow, Docker, CI/CD
 
-### 🛠️ Advanced Proficiency (Strong, Production-Ready)
-- **Hugging Face** ⭒⭒⭒⭒⭒  
-  *Fine-tuning, inference, model hub — full lifecycle.*
-- **Ollama / Local LLMs** ⭒⭒⭒⭒⭒  
-  *Llama 3, Mistral — privacy-first deployment at scale.*
-- **Google Antigravity** ⭒⭒⭒⭒☆  
-  *Next-gen agent orchestration — exploring advanced patterns.*
-- **CrewAI / AutoGen** ⭒⭒⭒⭒☆  
-  *Multi-agent teams with delegation, reflection, and roles.*
-- **ChromaDB / Weaviate** ⭒⭒⭒⭒☆  
-  *Vector storage with metadata filtering and hybrid search.*
-- **GCP & Docker** ⭒⭒⭒⭒☆  
-  *Containerized ML services, cloud deployment, CI/CD.*
+---
 
-> 💡 **⭒ Light stars** = Confident user. Production experience, but not daily focus.
+## 🛠️ Tech Stack
 
-## Projects 🚀
+### Core (Daily Drivers)
 
-<!-- 
-💡 Uncomment when ready
--->
-<!-- 
-- **Autonomous Agent Team for Data Analysis**  
-  Crew of self-organizing agents using **CrewAI** + **LangGraph** to explore datasets and write reports.  
-  🔧 Stack: Python, GCP, ChromaDB, OpenAI
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+</p>
 
-- **Local RAG Assistant with Ollama & Llama 3**  
-  Private, offline-ready assistant with document retrieval and chat.  
-  🔧 Stack: Ollama, LangChain, FastAPI, React
+### AI & LLMs
 
-- **ML Pipeline Orchestration Engine**  
-  Training and inference pipeline with versioning, logging, and async jobs.  
-  🔧 Stack: PyTorch, MLflow, RabbitMQ, Docker
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/CrewAI-34D399?style=for-the-badge" alt="CrewAI"/>
+</p>
 
-## Let's Connect 📨  
-<div align="center">
-  <a href="https://www.linkedin.com/in/dizel0110/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"/></a>    
-  <a href="https://hh.ru/resume/f956944fff0ee7c3eb0039ed1f763773435052" target="_blank"><img src="https://avatars.githubusercontent.com/u/152753?s=48&v=4" alt="HeadHunter" width="30"/></a>    
-  <a href="https://career.habr.com/dizel0110" target="_blank"><img src="https://habrastorage.org/getpro/moikrug/uploads/company/901/244/761/logo/medium_c35efb293cd85320d66e74304d3a8076.jpg" alt="Habr Career" width="30"/></a>    
-  <a href="https://t.me/dizel0110" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30"/></a>    
-</div>
+### Infrastructure
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge" alt="ChromaDB"/>
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dizel0110&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</div>
+---
+
+## 🔥 Featured Projects
+
+### 🔮 AI Prophet — Multimodal AI Agent
+
+<p align="center">
+  <strong>Multimodal AI Agent with Fallback Engine</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/Aiogram-3776AB?style=flat-square" alt="Aiogram"/>
+  <img src="https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram" alt="Telegram"/>
+</p>
+
+<p align="center">
+  Text + Vision + Voice unified in a single Telegram bot.<br/>
+  Auto-fallback: Google Gemini → HuggingFace (Qwen/Llama) for 99.9% uptime.
+</p>
+
+<p align="center">
+  <a href="https://github.com/dizel0110/ai_prophet"><strong>View on GitHub →</strong></a>
+</p>
+
+---
+
+### 📰 NEWS-RECOMMENDER — MLOps Pipeline
+
+<p align="center">
+  <strong>Production MLOps with MLflow, DVC, Ray</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/DVC-945DD5?style=flat-square&logo=dvc" alt="DVC"/>
+  <img src="https://img.shields.io/badge/Ray-0285FB?style=flat-square" alt="Ray"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" alt="Docker"/>
+</p>
+
+<p align="center">
+  Full MLOps cycle: LaBSE embeddings, experiment tracking, CI/CD deployment.
+</p>
+
+<p align="center">
+  <a href="https://github.com/dizel0110/NEWS-RECOMMENDER"><strong>View on GitHub →</strong></a>
+</p>
+
+---
+
+### 🏥 ITMO MedTech — Computer Vision
+
+<p align="center">
+  <strong>FastAPI + CV + Telegram Bot</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/rembg-00C7B7?style=flat-square" alt="rembg"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square" alt="RabbitMQ"/>
+</p>
+
+<p align="center">
+  Background removal service with message queue orchestration.
+</p>
+
+<p align="center">
+  <a href="https://github.com/dizel0110/ITMO"><strong>View on GitHub →</strong></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dizel0110&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dizel0110&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180"/>
+</p>
+
+---
+
+## 🌍 Beyond Code
+
+<p align="center">
+  <strong>🪁 Kite Riding</strong> — 270+ windy days in El Gouna<br/>
+  <strong>💪 Fitness</strong> — LA7 Gym @beachmonkeyz<br/>
+  <strong>📚 ML Fundamentals</strong> — TENSORTONIC-SOLUTIONS
+</p>
+
+> *"Training LLMs is like mastering the wind. Both require understanding invisible forces, predicting patterns, and adapting in real-time."*
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="https://dizel0110.github.io"><strong>🌐 Portfolio</strong></a> •
+  <a href="https://www.linkedin.com/in/dizel0110/"><strong>LinkedIn</strong></a> •
+  <a href="https://t.me/dizel0110"><strong>Telegram</strong></a> •
+  <a href="mailto:dizel0110@gmail.com"><strong>Email</strong></a>
+</p>
+
+<p align="center">
+  <em>Open for: ML Engineer roles • AI Agent development • MLOps consulting</em>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dizel0110&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  Made with ❤️ in El Gouna, Red Sea
+</p>
