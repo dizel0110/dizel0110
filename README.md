@@ -150,11 +150,16 @@ I build **autonomous AI agents** that think, **RAG systems** that know, and **ML
 
 <p align="center">
   <strong>🪁 Kite Riding</strong> — 270+ windy days in El Gouna<br/>
-  <strong>💪 Fitness</strong> — LA7 Gym @beachmonkeyz<br/>
+  <strong>💪 Fitness</strong> — LA7 Gym<br/>
   <strong>📚 ML Fundamentals</strong> — TENSORTONIC-SOLUTIONS
 </p>
 
-> *"Training LLMs is like mastering the wind. Both require understanding invisible forces, predicting patterns, and adapting in real-time."*
+> *"Training LLMs is like mastering the wind. Both require understanding invisible forces, predicting patterns, and adapting in real-time. **True intelligence flows with the chaos**."*
+
+<p align="center">
+  <strong>🌊 The FLOW Philosophy:</strong><br/>
+  <em>Kite Flow</em> (wind patterns) ↔ <em>ML Flow</em> (pipelines) ↔ <em>Air Flow</em> (orchestration) ↔ <em>Work Flow</em> (agents)
+</p>
 
 ---
 
